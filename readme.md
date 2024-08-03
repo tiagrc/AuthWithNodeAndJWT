@@ -17,10 +17,11 @@ Aplicação simples para autenticação de usuário, confirmação e validação
 - Validação do token através do middleware
 
 # Tecnologias 🔧
+- NodeJS
 - MongoDB
-- JWT
 - Express
 - Bcrypt
+- JWT
 
 # Licença
 Este projeto está licenciado sob a licença MIT.
